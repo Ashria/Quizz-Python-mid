@@ -19,7 +19,7 @@ def ask_question(question, correct_option):
 q1 = '''1) Who wrote the famous play Romeo and Juliet?
 a. William Shakespeare
 b. Leonardo da Vinci
-c. Leonardo DiCaprio'''
+c. Leonardo Di Caprio'''
 score += ask_question(q1, 'a')
 
 # Question 2
